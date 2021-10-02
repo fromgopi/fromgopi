@@ -1,6 +1,6 @@
 <h2 align="left"> 
     <abc>Hola</abc> 
-</h2>
+</h2> 
 <div align="center">
     <img alt="Developer Pic"
         src="https://user-images.githubusercontent.com/49222186/93325106-6aae0a00-f834-11ea-979f-27f48f1e9433.gif" width="350"/>
