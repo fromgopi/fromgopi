@@ -9,6 +9,10 @@
     </h1>
 </div>
 
+<p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=fromgopi&label=Profile%20views&color=0e75b6&style=flat" alt="fromgopi" /> </br>
+</p>
+
 - 📫 How to reach me **muktevigk@oscarmild.me/**
 
 <h3 align="left">Languages and Tools:</h3>
