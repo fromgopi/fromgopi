@@ -1,21 +1,21 @@
 
 
-<h2 align="left"> 
-    <abc>Hola</abc>  
-</h2> 
-<hr/>
 <div align="center">
-    <img alt="Developer Pic"
-        src="https://user-images.githubusercontent.com/49222186/93325106-6aae0a00-f834-11ea-979f-27f48f1e9433.gif" width="350"/>
-            <img src="https://raw.githubusercontent.com/fromgopi/fromgopi/master/images/coding.gif" width="350" />
+    <!-- <img alt="Developer Pic"
+        src="https://user-images.githubusercontent.com/49222186/93325106-6aae0a00-f834-11ea-979f-27f48f1e9433.gif" width="350"/> -->
     <h1>Hi, I am <a href="#" target="_blank">Gopi Krishna M</a> 
         <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">
     </h1>
 </div>
 
 <p align="left"> 
+<b>Glad to see you here! &nbsp;</b>
 <img src="https://komarev.com/ghpvc/?username=fromgopi&label=Profile%20views&color=0e75b6&style=flat" alt="fromgopi" /> </br>
 </p>
+
+<div align="center">
+    <p style="font-size: 20px">I'm a graduate in Computer Science 🎓 from Osmania University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.</p>
+</div>
 
 - 📫 How to reach me **muktevigk@oscarmild.me/**
   
