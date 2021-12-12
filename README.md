@@ -6,7 +6,7 @@
     </h1>
 </div> 
 
-<p align="left"> 
+<p align="left">  
 <b>Glad to see you here! &nbsp;</b>
 <img src="https://komarev.com/ghpvc/?username=fromgopi&label=Profile%20views&color=0e75b6&style=flat" alt="fromgopi" /> </br>
 </p>
