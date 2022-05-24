@@ -1,7 +1,3 @@
- 
-
-
-
 
 <div align="center">
     <h1>Hi, I am <a href="#" target="_blank">Gopi Krishna M</a> 
@@ -44,3 +40,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fromgopi&" alt="oscarmild" /></p>
  
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
+</p>
