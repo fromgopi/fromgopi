@@ -25,7 +25,7 @@
     <ul>
         <li>🛠 &nbsp; I’m currently working with Nodejs, Express, React, <br /> Graphql, Mongodb, Javascript, etc.</li>
         <li>🚀 &nbsp; I’m currently learning Machine Learning and Deep Learning</li>
-        <li>📫 How to reach me <b><a href="mailto:muktevigk@oscarmild.me">muktevigk@oscarmild.me</a></b>
+        <li>📫 How to reach me <b><a href="mailto:muktevigk@oscarmild.me">muktevigk@oscarmild.me</a></b> 
         </li> 
     </ul>
 
