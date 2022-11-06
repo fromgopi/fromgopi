@@ -4,7 +4,7 @@
     <h1>Hi, I am <a href="#" target="_blank">Gopi Krishna M</a>  
         <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
     </h1>  
-</div>        
+</div>         
        
 <p align="left">        
 <b>Glad to see you here! &nbsp;</b>   
