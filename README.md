@@ -1,6 +1,5 @@
   
 
-
  
 <div align="center">    
     <h1>Hi, I am <a href="#" target="_blank">Gopi Krishna M</a>  
