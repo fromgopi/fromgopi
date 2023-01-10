@@ -13,7 +13,7 @@
 </p>  
 <div align="left">  
     <p style="font-size: 20px">I'm a graduate in Computer Science 🎓 from Osmania University 🏛. I'm a passionate  learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.</p> 
-    <p>Joined Github <span style="font-weight: bold">7</span> years ago.
+    <p>Joined Github <span style="font-weight: bold">8</span> years ago.
     </p>
     <p style="font-weight: bold">Like My Work?</p> 
     <a href="https://www.buymeacoffee.com/oscarmild" target="_blank">
